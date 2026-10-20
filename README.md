@@ -95,8 +95,7 @@ Actively expanding into modern Fullstack architectures with **Vue 3**, **Nuxt 4*
   <img src="https://img.shields.io/badge/English-C1_(Professional)-blue?style=flat-square" alt="English C1" />
 </p>
 
-https://www.instagram.com/tallo.sf/
 
 ### 🍃 Free Time
-I like plants and <a href="[mailto:giuli.rossetti9@gmail.com](https://www.instagram.com/tallo.sf/">苔玉</a>!
+I like plants and <a href="https://www.instagram.com/tallo.sf/">苔玉</a>!
 
