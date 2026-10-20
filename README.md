@@ -1,4 +1,4 @@
-# Hi, I'm Giuliano Rossetti 👋
+# Hi, I'm Giuliano 🐛👋
 
 ### Backend & Fullstack Developer · Node.js, PHP & Modern Vue/Nuxt Ecosystem
 
@@ -94,3 +94,9 @@ Actively expanding into modern Fullstack architectures with **Vue 3**, **Nuxt 4*
   <img src="https://img.shields.io/badge/Location-C%C3%B3rdoba%2C_Argentina-lightgrey?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/English-C1_(Professional)-blue?style=flat-square" alt="English C1" />
 </p>
+
+https://www.instagram.com/tallo.sf/
+
+### 🍃 Free Time
+I like plants and <a href="[mailto:giuli.rossetti9@gmail.com](https://www.instagram.com/tallo.sf/">苔玉</a>!
+
