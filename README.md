@@ -70,14 +70,6 @@ Actively expanding into modern Fullstack architectures with **Vue 3**, **Nuxt 4*
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuli9r&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
